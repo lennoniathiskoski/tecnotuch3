@@ -1,2 +1,2 @@
-# tecnotuch3
-site para aprendizagem.
+# tecnotuchtuch
+Estudo de JavaScript.
